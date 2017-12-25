@@ -1,0 +1,39 @@
+//
+//  PublicPch.pch
+//  HGBasicFramework
+//
+//  Created by RicardoM Lu on 2017/8/12.
+//  Copyright © 2017年 RicardoM Lu. All rights reserved.
+//
+
+#ifndef PublicPch_pch
+#define PublicPch_pch
+
+#import "WHC_ModelSqlite.h"
+#import "HgConstant.h"
+#import "HgUrl.h"
+#import "SVProgressHUD.h"
+#import "MJRefresh.h"
+#import "DCSpeedy.h"
+#import "YYModel.h"
+#import "HgAllParametersAndURL.h"
+#import "IQKeyboardManager.h"
+#import "Masonry.h"
+#import "Inline.h"
+#import "UIView+Extension.h"
+#import "EasyNavigation.h"
+#import "BANetManager_OC.h"
+
+#import "HgBaseViewController.h"
+#import "HgBorrwwerBaseModel.h"
+#import "HgBorrowerFamilyAssetsTableViewCell.h"
+#import "HgBorrwwerSectionBaseModel.h"
+#import "UIButton+touch.h"
+#import "CRToast.h"
+
+#import "HgAllNetWorkModel.h"
+#import "HgDataBaseManager.h"
+#import "HgAllInterfaces.h"
+#import "HgAllParametersAndURL.h"
+
+#endif /* PublicPch_pch */
